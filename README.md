@@ -63,5 +63,9 @@ analysis explaining why the phenomenon may be occurring.
       Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
       Ensure your presentation is professional, logical, and visually appealing.
+
+   ### Tableau Dashboard
+   
+   Note that all the data cleaning was done using pandas and the cleaned data was uploaded to Tableau Desktop for visualization
       
-      [Link for Tableau report](https://public.tableau.com/app/profile/esubalew.adal/viz/citibike_project_16829121245620/Story1)
+      Here is the [Link for Tableau Dashboard](https://public.tableau.com/app/profile/esubalew.adal/viz/citibike_project_16829121245620/Story1)
